@@ -6,12 +6,12 @@ export const cart = require("../assets/icons/cart_icon.png");
 export const dashboard = require("../assets/icons/dashboard_icon.png");
 export const menu = require("../assets/icons/menu_icon.png");
 
-export default{
+export default {
     search,
     plus,
-    user,
     chevron,
+    user,
     cart,
     dashboard,
-    menu
+    menu,
 }
